@@ -1,5 +1,5 @@
 # Site settings
-title: Julia Kraus' Data Science Portfolio
+title: Julia Kraus
 description: Julia Kraus' Data Science Portfolio
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -7,7 +7,7 @@ description: Julia Kraus' Data Science Portfolio
 # User settings
 username: Julia Kraus
 user_description: Professional data scientist, amateur classical guitar player and jazz dancer. Humanist. Studied M.Sc. in Mathematics, State examination as teacher of English, Latin and Mathematics. I love building things and believe in learning by teaching.
-user_title: Data Scientist and Python Developer
+user_title: Data Scientist
 email: j-kraus@gmx.de
 twitter_username: realJuliaKraus
 github_username:  julia-kraus
